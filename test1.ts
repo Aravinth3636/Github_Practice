@@ -2,17 +2,7 @@
 console.log("welcome to Tester1");
 console.log("welcome to Tester-2");
 
-function login()
-{
-    console.log("Login success");
-}
-login();
 
-function logout()
-{
-    console.log("Login success");
-}
-logout();
 
 console.log("this is a test file2");
 
