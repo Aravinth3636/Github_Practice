@@ -8,6 +8,11 @@ function login()
 }
 login();
 
+function payment()
+{
+    console.log("Payment successfully");
+}
+
 function paymentfailure()
 {
     console.log("Payment failed");
