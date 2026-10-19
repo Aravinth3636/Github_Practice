@@ -8,6 +8,11 @@ function login()
 }
 login();
 
+function payment()
+{
+    console.log("Payment successfully");
+}
+
 console.log("this is a test file2");
 
 console.log("practice session for github3"); 
