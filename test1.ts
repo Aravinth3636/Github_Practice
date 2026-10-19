@@ -1,4 +1,4 @@
-console.log("welcome to github1");
+console.log("welcome to Tester-2");
 
 console.log("this is a test file2");
 
